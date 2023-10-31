@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Sobre mi:
 
-- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Web por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android.
+- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Web por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android, lo que realmente me apasiona es todo el mundo del Desarrollo Web
 - 🎓 Actualmente estudio **Ingenieria en Informática** en **UPIICSA**
 - 🎓 Estudie como **Técnico en Informática** en el CECyT 14 "Luis Enrique Erro"
 - 🏡Vivo en Ciudad de México
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Contactame ☕ :
+## Contáctame ☕ :
 
 <br>
 
