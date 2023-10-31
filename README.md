@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 
 ## Sobre mi:
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Web por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android.
+- 🎓 Actualmente estudio **Ingenieria en Informática** en **UPIICSA**
+- 🎓 Estudie como **Técnico en Informática** en el CECyT 14 "Luis Enrique Erro"
+- 🏡Vivo en Ciudad de México
+- ⚡ Disfruto mucho de salir con amigos, comer en compañia y tomar fotos como pasatiempo 🍕 📷 ⚽ 🎥 🚞
 
 <br>
 
-## Connect with me ☕ :
+## Contactame ☕ :
 
 <br>
 
