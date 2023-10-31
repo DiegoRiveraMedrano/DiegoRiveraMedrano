@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="wijegoonawardana.com" src="https://i.ibb.co/tcRn5X6/bannee1.jpg" width="300"/>
 </div>
 <h1 align="center">Hola</h1>
 
