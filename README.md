@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola, soy Diego</h1>
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="https://i.ibb.co/tcRn5X6/bannee1.jpg" width="100%"/>
+    <img alt="wijegoonawardana.com" src="https://ibb.co/qgk9bsb" width="100%"/>
 </div>
 
 
