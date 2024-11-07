@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h1 align="center">Hola, soy Diego</h1>
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="https://i.ibb.co/QHrnsNs/Blue-Black-Modern-Technology-Linked-In-Banner.jpg" width="100%"/>
 </div>
+-->
 
 
 
