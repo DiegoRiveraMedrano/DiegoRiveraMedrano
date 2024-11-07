@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hola, soy Diego</h1>
 -->
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="https://i.ibb.co/QHrnsNs/Blue-Black-Modern-Technology-Linked-In-Banner.jpg" width="100%"/>
+    <img alt="Portada" src="https://i.ibb.co/QHrnsNs/Blue-Black-Modern-Technology-Linked-In-Banner.jpg" width="100%"/>
 </div>
 
 
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## Sobre mi:
 
-- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Web por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android, lo que realmente me apasiona es todo el mundo del Desarrollo Web
-- 🎓 Actualmente estudio **Ingenieria en Informática** en **UPIICSA**
-- 🎓 Estudie como **Técnico en Informática** en el CECyT 14 "Luis Enrique Erro"
-- 🏡Vivo en Ciudad de México
-- ⚡ Disfruto mucho de salir con amigos, comer en compañia y tomar fotos como pasatiempo 🍕 📷 ⚽ 🎥 🚞
+- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Frontend por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android, sin embargo lo que realmente me apasiona es todo el mundo del Desarrollo Web
+- 📓 Actualmente estudio **Ingenieria en Informática** en **UPIICSA**
+- 🎓 Estudie como **Técnico en Informática** en el CECyT 14 "Luis Enrique Erro" del **IPN**
+- 🏡 Vivo en Ciudad de México
+- ⚡ Disfruto de salir con amigos, comer en compañia y tomar fotos como pasatiempo 🍕 📷 ⚽ 🎥 🚞
 
 <br>
 
