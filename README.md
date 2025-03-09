@@ -36,16 +36,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/instagram-new.png "@diegoriveramedrano")](https://www.instagram.com/diegoriveramedrano/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/facebook.png "Diego Rivera Medrano")](https://es-la.facebook.com/people/Diego-Rivera-Medrano/100007288635187/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/linkedin.png "Diego Ernesto Rivera Medrano")](https://www.linkedin.com/in/diego-ernesto-rivera-medrano-8611981a6/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@medrano_rivera")](https://x.com/medrano_rivera?t=BI4EhUFxOu3gcIWjIZLbFQ&s=08) [![@5627409543](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "5627409543")](tel:5627409543) [![@diegoernesto@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "diegoernestoqoutlook.com")](diegoernesto@outlook.com)
+[![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/instagram-new.png "@diegoriveramedrano")](https://www.instagram.com/diegoriveramedrano/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/facebook.png "Diego Rivera Medrano")](https://es-la.facebook.com/people/Diego-Rivera-Medrano/100007288635187/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/linkedin.png "Diego Ernesto Rivera Medrano")](https://www.linkedin.com/in/diego-ernesto-rivera-medrano-8611981a6/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@medrano_rivera")](https://x.com/medrano_rivera?t=BI4EhUFxOu3gcIWjIZLbFQ&s=08)  [![@diegoernesto@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "diegoernestoqoutlook.com")](diegoernesto@outlook.com)
 
 <br>
 
-## Mis habilidades 🧑‍💻 :
 
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-
-<br>
