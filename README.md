@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![@diegoriveramedrano]([https://img.icons8.com/fluency/48/000000/instagram-new.png](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/instagram.svg) "@diegoriveramedrano")](https://www.instagram.com/diegoriveramedrano/) [![@diegoriveramedrano]([https://img.icons8.com/fluency/48/000000/facebook.png](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/facebook.svg) "Diego Rivera Medrano")](https://es-la.facebook.com/people/Diego-Rivera-Medrano/100007288635187/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/linkedin.png "Diego Ernesto Rivera Medrano")](https://www.linkedin.com/in/diego-ernesto-rivera-medrano-8611981a6/)   [![@diegoernesto@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "diegoernestoqoutlook.com")](diegoernesto@outlook.com)
+[![@diegoriveramedrano]([https://img.icons8.com/fluency/48/000000/instagram-new.png](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg) "@diegoriveramedrano")](https://www.instagram.com/diegoriveramedrano/) [![@diegoriveramedrano]([https://img.icons8.com/fluency/48/000000/facebook.png](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg) "Diego Rivera Medrano")](https://es-la.facebook.com/people/Diego-Rivera-Medrano/100007288635187/) [![@diegoriveramedrano](https://img.icons8.com/fluency/48/000000/linkedin.png "Diego Ernesto Rivera Medrano")](https://www.linkedin.com/in/diego-ernesto-rivera-medrano-8611981a6/)   [![@diegoernesto@outlook.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "diegoernestoqoutlook.com")](diegoernesto@outlook.com)
 
 <br>
 
