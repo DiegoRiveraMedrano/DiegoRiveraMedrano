@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" width="50">
     <img alt="Portada" src="https://i.ibb.co/9mvn58Gw/Blue-Black-Modern-Technology-Linked-In-Banner.png" width="100%"/>
+    <img alt="Diego Rivera" src="./Diego Rivera.png" width="100%"/>
 </div>
 
 
