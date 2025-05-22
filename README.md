@@ -21,17 +21,13 @@ Here are some ideas to get you started:
 
 
 
+# Diego Rivera - Perfil de GitHub
 
-## Sobre mi:
+Soy estudiante de Ingeniería en Informática con experiencia en desarrollo web y soporte técnico. Manejo tecnologías como HTML5, CSS3, JavaScript (incluyendo React y Node.js), PHP, MySQL y PostgreSQL, aplicando buenas prácticas de programación y diseño de software. También tengo conocimientos en administración de sistemas, redes y mantenimiento de hardware.
 
-- 🏢 Actualmente trabajo para distintas empresas como Desarrollador Frontend por proyectos, aun que en el pasado tambien realice cableado estructurado, implementación de centros de datos  y participe en el desarrollo de aplicaciones para android, sin embargo lo que realmente me apasiona es todo el mundo del Desarrollo Web
-- 📓 Actualmente estudio **Ingenieria en Informática** en **UPIICSA**
-- 🎓 Estudie como **Técnico en Informática** en el CECyT 14 "Luis Enrique Erro" del **IPN**
-- 🏡 Vivo en Ciudad de México
-- ⚡ Disfruto de salir con amigos, comer en compañia y tomar fotos como pasatiempo 🍕 📷 ⚽ 🎥 🚞
+## Objetivo
 
-<br>
-
+Seguir aprendiendo y creciendo en el área de desarrollo de software, con especial interés en tecnologías modernas como React, Node.js y contenedores Docker, para aportar soluciones innovadoras y eficientes.
 ## Contáctame ☕ :
 
 <br>
