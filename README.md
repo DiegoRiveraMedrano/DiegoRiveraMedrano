@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Sobre mi 👨‍💻
 
-Soy estudiante de Ingeniería en Informática con experiencia en desarrollo web y soporte técnico. Manejo tecnologías como HTML5, CSS3, JavaScript (incluyendo React y Node.js), PHP, MySQL y PostgreSQL, aplicando buenas prácticas de programación y diseño de software. También tengo conocimientos en administración de sistemas, redes y mantenimiento de hardware.
+Soy estudiante de Ingeniería en Informática con experiencia en desarrollo web y soporte técnico. Manejo tecnologías como HTML5, CSS3, JavaScript (incluyendo React y Node.js), PHP, MySQL y Azure,  aplicando buenas prácticas de programación y diseño de software. También tengo conocimientos en administración de sistemas, redes y mantenimiento de hardware.
 
 ## Objetivo 
 
